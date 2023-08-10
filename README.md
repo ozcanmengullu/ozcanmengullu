@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Swift, react and Next.js and C++**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **Vue and Javascript**
 
 - 📫 How to reach me **ozcanmengulluu@gmail.com**
 
