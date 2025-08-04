@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozcanmengullu" alt="ozcanmengullu" /></a> </p>
 
-- 🌱 I’m currently learning **Swift, react and Next.js and C++**
+- 🌱 I’m currently learning **Swift, React Native and C++**
 
-- 💬 Ask me about **Vue and Javascript**
+- 💬 Ask me about **Vue, React, Javascript and Typescript**
 
 - 📫 How to reach me **ozcanmengulluu@gmail.com**
 
